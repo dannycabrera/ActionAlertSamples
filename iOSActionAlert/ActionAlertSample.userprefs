@@ -6,17 +6,6 @@
       <File FileName="ActionAlertSample/ViewController.designer.cs" Line="25" Column="54" />
       <File FileName="ActionAlertSample/License.txt" Line="29" Column="26" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="ActionAlertSample" expanded="True" selected="True">
-            <Node name="ActionAlertSample" expanded="True">
-              <Node name="References" expanded="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

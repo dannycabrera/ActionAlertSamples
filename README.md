@@ -4,6 +4,20 @@
 
 **Action Alert** makes it easy include images, activity indicators, progress bars, and interactive buttons to a notification, while providing for a maximum of code reuse across platforms. In many cases the same code used to display an ActionAlert on one platform can be used virtually unchanged on another which not only saves time, but improves code maintainability.
 
+# Running the Samples
+
+Before you can successfully build and run these sample apps, you'll need to download and install the [Action Components Trail](http://appracatappra.com/products/action-components/) version from the Appracatappra website or have purchased and installed a licensed version of the components.
+
+Next, open either the iOS or the Android version of the sample in Visual Studio and expand the **Resources** folder:
+
+![](Images/Intro01.png)
+
+If the `ActionComponents` entry is grayed-out with a red X (as shown in the image above), right-click on it and select **Delete**. Double-Click the **Resources** folder to open the **Edit References** dialog and select the **.Net Assembly** tab:
+
+![](Images/Intro02.png)
+
+Click the **Browse** button, navigate to where you installed the **Action Components** trial or licensed version and locate the appropriate `ActionComponents.ddl` (for either iOS or Android) and click the **OK** button. The sample will now be ready to run.
+
 # Alert and Notification Types
 
 **Action Alert** provides for four main alert and notification types which can be expanded on by optionally adding titles, descriptions, icons, buttons (such as *OK* or *Cancel*) or any combination of the above. The base types are:
