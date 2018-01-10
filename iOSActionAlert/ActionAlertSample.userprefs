@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{8B933B63-0D80-4FF4-AE01-7A13AB98858E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ActionAlertSample/License.txt">
+    <Files>
+      <File FileName="ActionAlertSample/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="ActionAlertSample/ViewController.cs" Line="236" Column="1" />
+      <File FileName="ActionAlertSample/ViewController.designer.cs" Line="25" Column="54" />
+      <File FileName="ActionAlertSample/License.txt" Line="29" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ActionAlertSample" expanded="True" selected="True">
+            <Node name="ActionAlertSample" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ActionAlertSample PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0BE493C6-D4FC-4340-92AC-F9755D9C31F4">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.ActionAlertSample>
+</Properties>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:minWidth="25px"
+    p1:minHeight="25px"
+    p1:layout_width="fill_parent"
+    p1:layout_height="fill_parent"
+    p1:id="@+id/mainLayout"
+    p1:background="#ffffffff">
+    <ImageView
+        p1:src="@drawable/bullseye1"
+        p1:layout_width="512dp"
+        p1:layout_height="329.3dp"
+        p1:id="@+id/imageView1"
+        p1:scaleType="fitCenter"
+        p1:maxWidth="512dp"
+        p1:maxHeight="512dp"
+        p1:minWidth="128dp"
+        p1:minHeight="128dp"
+        p1:layout_marginTop="0.0dp"
+        p1:layout_marginBottom="0.0dp"
+        p1:layout_centerInParent="true" />
+    <ImageView
+        p1:src="@drawable/InfoBar"
+        p1:layout_width="match_parent"
+        p1:layout_height="58.0dp"
+        p1:id="@+id/imageView2"
+        p1:scaleType="fitXY"
+        p1:layout_marginBottom="0.0dp"
+        p1:layout_alignParentBottom="true" />
+    <LinearLayout
+        p1:orientation="horizontal"
+        p1:minWidth="25px"
+        p1:minHeight="25px"
+        p1:layout_width="match_parent"
+        p1:layout_height="50dp"
+        p1:id="@+id/linearLayout1"
+        p1:layout_alignParentBottom="true"
+        p1:gravity="right">
+        <TextView
+            p1:text="Current Active Alert"
+            p1:textAppearance="?android:attr/textAppearanceSmall"
+            p1:layout_width="wrap_content"
+            p1:layout_height="fill_parent"
+            p1:id="@+id/alertName"
+            p1:layout_marginTop="15dp"
+            p1:layout_marginRight="10dp" />
+        <Button
+            p1:text="-"
+            p1:layout_width="wrap_content"
+            p1:layout_height="fill_parent"
+            p1:id="@+id/minusButton" />
+        <Button
+            p1:text="+"
+            p1:layout_width="wrap_content"
+            p1:layout_height="fill_parent"
+            p1:id="@+id/plusButton"
+            p1:layout_marginRight="10dp" />
+        <Button
+            p1:text="Alert"
+            p1:id="@+id/alertButton"
+            p1:layout_width="wrap_content"
+            p1:layout_height="fill_parent"
+            p1:gravity="center" />
+    </LinearLayout>
+</RelativeLayout>

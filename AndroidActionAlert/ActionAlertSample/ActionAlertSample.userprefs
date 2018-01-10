@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{957A6835-08EB-48A7-A446-3C0AC1B1AB7C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ActionAlertSample/MainActivity.cs">
+    <Files>
+      <File FileName="../../../../ActionComponentsOld/ActionAlert/ActionAlertTest.Android/MainActivity.cs" Line="11" Column="25" />
+      <File FileName="ActionAlertSample/MainActivity.cs" Line="38" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ActionAlertSample" expanded="True">
+            <Node name="ActionAlertSample" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+                <Node name="layout" expanded="True" />
+              </Node>
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ActionAlertSample AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.emulator-5554" />
+</Properties>
